@@ -175,7 +175,7 @@
 			width: -ms-max-content;
 			width: max-content;
 			padding-bottom: 0.5rem;
-			margin: 0 0 2rem 0;
+			margin: 0 2rem 2rem 0;
 		}
 
 	h1 {
@@ -196,6 +196,7 @@
 
 	h4 {
 		font-size: 0.8rem;
+
 	}
 
 	h5 {
@@ -280,6 +281,9 @@
 		text-align: right;
 	}
 
+	.title {
+    	 width   : 600px;  
+ 	}
 /* Form */
 
 	form {
